@@ -1,5 +1,5 @@
-<h1 align="center">100-day-frontend-challenge <br><br>
-  <h2 align="center">Hi 👋, I'm Prajwal Joshi</h2>
+  <p align="center">100-day-frontend-challenge</p>
+  <h1 align="center">Hi 👋, I'm Prajwal Joshi</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="center">
